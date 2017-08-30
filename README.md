@@ -1,6 +1,6 @@
 # learning Git
 
-## commands
+### commands
 ```
 git init
 git remote add origin https://github.com/pskwarcz/learningGit.git
@@ -11,7 +11,7 @@ git add filenameOrChangesToAdd
 git diff
 git checkout -- filename
 ```
-create branch
+### branch
 ```
 git branch clean_up 
 git checkout clean_up     -select current branch:wq
