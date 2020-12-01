@@ -21,3 +21,6 @@ git branch -d branch-name  -removes branch
 
 ```git pull``` is essentially a ```git fetch``` immediately followed by ```git merge```
 
+Prune all unreachable objects from the object database:
+```git remote prune origin```
+
