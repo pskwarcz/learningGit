@@ -18,3 +18,6 @@ git checkout clean_up     -select current branch:wq
 git merge clean_up
 git branch -d branch-name  -removes branch
 ```
+
+```git pull``` is essentially a ```git fetch``` immediately followed by ```git merge```
+
