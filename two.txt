@@ -1,0 +1,3 @@
+Zmiana w branchu two
+Druga zmiana w branchu two
+Trzecia zmiana w branchu two
